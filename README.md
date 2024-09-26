@@ -1,0 +1,2 @@
+# salmonrun-result-yomitorikun
+スプラトゥーンのサーモンランのリザルトを読み込むためのシステムです
