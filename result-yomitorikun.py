@@ -100,7 +100,7 @@ async def create_thread(interaction: discord.Interaction, team_id: Optional[int]
     # デフォルトのシートURLを設定
     global sheet_url
     if not sheet_url:
-        sheet_url = "https://docs.google.com/spreadsheets/d/1qAbN-OMvG9flO7ey9m5ylHg0-k0qkHc1zUrnSPbHtqg/edit#gid=991675042"
+        sheet_url = ""  #任意のシート設定
     
     # スプレッドシートIDを抽出して有効なURLか確認
     try:
